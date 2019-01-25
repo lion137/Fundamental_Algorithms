@@ -1,2 +1,2 @@
-#### Some basic, generic algorithms in C++     
+#### Some basic algorithms in C++     
 
