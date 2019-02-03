@@ -25,7 +25,6 @@ def poly_gcd(u, v):
 	if not any(v): return u
 	else: return poly_gcd(v, poly_mod(u, v))
 
-print(poly_divide([0, 0, 0, 0], [1, 1]))
-print (poly_gcd([1, 1, 1], [1, 1, 1]))
+
 
 
