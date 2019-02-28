@@ -7,7 +7,7 @@ void printList(vector<int> v);
 vector<int> remainder(vector<int> a, int i);
 vector<int> append(vector<int> a, int elem);
 
-//show all the permuatations of the vector r s = {}
+//show all the permuatations of the vector r, s = {}
 void recPermutation(vector<int> s, vector<int> r) {
 	if (r.empty()) {
 		printList(s);
