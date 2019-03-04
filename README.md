@@ -5,8 +5,9 @@ More here: https://lion137.blogspot.com/2019/01/fundamental-algorithms.html
 - Permuatations;
 - Subsets;
 - Variations With Repetitions; 
-- Parser to Reverse Polish Notation;
-
+- Parser to Reverse Polish Notation and Eval RPN Expression;   
+    working code, also here: https://github.com/lion137/Java-Numeric-Calculator    
+  
 
 
 
