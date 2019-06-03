@@ -3,8 +3,8 @@
 
 # input: coefficients of polynomials as a lists u, v != 0
 # in order u[0] = free coefficient of u(x), ....
-# returns polynomials q, r such that u = vq + r(rest)
-# lengthu >= length v >= 0
+# returns polynomials q, r such that u = vq + r 
+# length u >= length v >= 0
 def poly_divide(u, v):
 	m =   len(u) - 1
 	n =   len(v) - 1
